@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1698676188,
+	"version": 1698681490,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,6 +37,7 @@
 		"media/gameover.ogg",
 		"media/jump.m4a",
 		"media/jump.ogg",
+		"media/witch.ogg",
 		"media/mainmbg.ogg",
 		"icon-16.png",
 		"icon-32.png",
