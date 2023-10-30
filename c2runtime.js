@@ -27080,7 +27080,9 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Browser.prototype.acts.Close,
 	cr.plugins_.Browser.prototype.acts.GoToURL,
 	cr.plugins_.Audio.prototype.acts.Play,
+	cr.system_object.prototype.acts.GoToLayout,
+	cr.plugins_.Browser.prototype.cnds.IsFullscreen,
 	cr.plugins_.Browser.prototype.acts.RequestFullScreen,
-	cr.plugins_.Browser.prototype.acts.LockOrientation,
-	cr.system_object.prototype.acts.GoToLayout
+	cr.plugins_.Browser.prototype.cnds.IsPortraitLandscape,
+	cr.system_object.prototype.acts.SetTimescale
 ];};

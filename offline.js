@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1698672595,
+	"version": 1698674627,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,7 @@
 		"images/prize-sheet0.png",
 		"images/bgebd-sheet0.png",
 		"images/sky-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/eat.m4a",
 		"media/eat.ogg",
 		"media/gameover.m4a",
